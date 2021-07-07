@@ -1,5 +1,4 @@
-<div style="text-align: center"> 
-  
+<div align="center">
 ### Hi there, I'm Anshuman Srivastava
 
 - 👀 I’m interested in contributing to the development, security, and business expansion of modern technologies. 
@@ -20,7 +19,7 @@
 
 </p>
 
- </div>
+</div>
  <!---
 AnshumanSrivastava108/AnshumanSrivastava108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
