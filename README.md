@@ -1,4 +1,4 @@
-<div style="text-align: centre"> 
+<div style="text-align: center"> 
   
 ### Hi there, I'm Anshuman Srivastava
 
