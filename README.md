@@ -1,4 +1,4 @@
-### Hi there, I'm Anshuman Srivastava
+<p align =" centre"> ### Hi there, I'm Anshuman Srivastava
 
 - 👀 I’m interested in contributing to the development, security, and business expansion of modern technologies. 
 - 💞️ I have been acknowledged & rewarded by some reputed organizations for reporting flaws and bugs. Featured in the Hall of Fame of OnePlus and Flipkart. Received Swags and Bug Bounties from Swiggy and GyFTR (HDFC SmartBuy).
@@ -15,6 +15,8 @@
 <a href = "https://twitter.com/Anshuman_121"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/anshuman_121/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/anshuman121121/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
+</p>
 
 </p>
 <!---
